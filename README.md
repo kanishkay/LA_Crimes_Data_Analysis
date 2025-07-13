@@ -1,6 +1,8 @@
 # 🔍 LA Crimes Analysis (2012–2016)
 
-📊 An exploratory data analysis (EDA) project using real-world crime data from Los Angeles, sourced from [Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/kingburrito666/los-angeles-crime)).
+📊 An exploratory data analysis (EDA) project using real-world crime data from Los Angeles, sourced from [Kaggle]
+
+**Los Angeles Crime Data, 2012 to 2016** : https://www.kaggle.com/datasets/kingburrito666/los-angeles-crime
 
 ## 📁 Project Structure
 
