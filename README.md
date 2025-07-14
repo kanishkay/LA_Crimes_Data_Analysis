@@ -7,7 +7,7 @@
 ## 📁 Project Structure
 
 - `LA_Crimes_EDA.ipynb`: Main notebook with visual analysis, trends, and insights
-- `LA_Crimes_2012_to_2016.csv`: Dataset (optional, may exclude if too large)
+- `LA_Crimes_2012_to_2016.csv`: Dataset 
 - `requirements.txt`: Python dependencies
 
 ## 📈 Key Insights
